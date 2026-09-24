@@ -1,0 +1,6 @@
+{
+  "name": "Strulytic KAI - Railway & Tunnel AIoT Health Monitoring",
+  "description": "Industrial AIoT Structural Health Monitoring (SHM) platform for PT Kereta Api Indonesia (Persero) and MRT/LRT Jakarta heritage bridges and underground tunnels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
